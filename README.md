@@ -6,7 +6,7 @@
 - Working Principle:
   - It first loads the image. 
   - Detects face using OpenCV.
-  - Adjusts the face with some free space and crops it.
+  - Adjusts the face with some free space, crops it and saves it in `./auto_crooped/`.
   - Loads the template, places everything accordingly.
   - Saves as both image and pdf file.
 
@@ -27,19 +27,19 @@ The working example is demonstracted using [10 Minute School](https://10minutesc
 
 ## **Frame and Input Images**
 <p float="left">
-<img src="0BaseFrame.png" height="120">
-<img src="images/01.png" height="120">
-<img src="images/02.jpeg" height="120">
-<img src="images/03.png" height="120">
+<img src="0BaseFrame.png" height="180">
+<img src="images/01.png" height="180">
+<img src="images/02.jpeg" height="180">
+<img src="images/03.png" height="180">
 </p>
 
 ---
 
 ## **Designed ID  Cards**
 <p float="left">
-<img src="files\Lal Singh Chadda - Project Executive.png" height="250">
-<img src="files\Azmine Toushik Wasi - Project Executive.png" height="250">
-<img src="files\Leonardo Dcaprio - Project Manager.png" height="250">
+<img src="files\Lal Singh Chadda - Project Executive.png" height="300">
+<img src="files\Azmine Toushik Wasi - Project Executive.png" height="300">
+<img src="files\Leonardo Dcaprio - Project Manager.png" height="300">
 </p>
 
 ---
