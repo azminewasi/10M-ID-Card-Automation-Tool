@@ -26,23 +26,25 @@ The working example is demonstracted using [10 Minute School](https://10minutesc
 ---
 
 ## **Frame and Input Images**
-<img src="0BaseFrame.png" height="150">
-<img src="images/01.png" height="150">
-<img src="images/02.jpeg" height="150">
-<img src="images/03.png" height="150">
+<p float="left">
+<img src="0BaseFrame.png" height="120">
+<img src="images/01.png" height="120">
+<img src="images/02.jpeg" height="120">
+<img src="images/03.png" height="120">
+</p>
 
 ---
 
 ## **Designed ID  Cards**
+<p float="left">
 <img src="files\Lal Singh Chadda - Project Executive.png" height="250">
 <img src="files\Azmine Toushik Wasi - Project Executive.png" height="250">
 <img src="files\Leonardo Dcaprio - Project Manager.png" height="250">
-
+</p>
 
 ---
  ***Do not use without permission.***
 
----
 ---
 
 # **How to use (Procedure)**
@@ -83,7 +85,6 @@ saveimg.paste(person_nBG, (0,353),person_nBG)
  ***Do not use without permission.***
 
 ---
----
 # Developed by [***Azmine Toushik Wasi***](https://azminewasi.github.io/)
 *Machine Learning Researcher | Exploring Machine Learning & Data Science | Kaggle Notebooks Grandmaster | Tech Writer | Reader*
 
@@ -93,8 +94,6 @@ saveimg.paste(person_nBG, (0,353),person_nBG)
 - GitHub: https://github.com/azminewasi
 
 ---
----
  ***Do not use without permission.***
 
----
 ---
