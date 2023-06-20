@@ -58,7 +58,7 @@ while (ei<total): # Loop through database
 		continue
 
 # Face Location Processing
-	person=face_location_processing (i_height, i_width,canvas_data,imgData,id_list[ei][:-4]+".png")
+	person=face_location_processing (i_height, i_width,canvas_data,imgData,id_list[ei]+".png")
  
 # Name Placement
 	MAX_H,MAX_W = 1004,651
